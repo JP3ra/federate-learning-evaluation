@@ -2,7 +2,7 @@
 
 **Evaluating Federated Learning Under Data Heterogeneity with Analysis of Failure Modes and Practical Mitigations**
 
-*Jyotiprakash Panda, Om Patil — Submitted to Discover Artificial Intelligence (Springer)*
+*Jyotiprakash Panda, Om Patil — Accepted for Submission by discover Artificial Intellignece (Springer)*
 
 ---
 
