@@ -2,7 +2,7 @@
 
 **Evaluating Federated Learning Under Data Heterogeneity with Analysis of Failure Modes and Practical Mitigations**
 
-*Jyotiprakash Panda, Om Patil — Accepted for Submission by discover Artificial Intellignece (Springer)*
+*Jyotiprakash Panda, Om Patil — Accepted for publication, Discover Artificial Intelligence (Springer Nature), 2026*
 
 ---
 
@@ -95,7 +95,7 @@ Data heterogeneity is introduced via Dirichlet-based label skew following [Hsu e
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/federated-learning-heterogeneity.git
+git clone https://github.com/JP3ra/federated-learning-heterogeneity.git
 cd federated-learning-heterogeneity
 python -m venv venv
 source venv/bin/activate
@@ -197,7 +197,7 @@ If you use this code, please cite:
 ```
 Panda, J., Patil, O. (2026). Evaluating Federated Learning Under Data Heterogeneity
 with Analysis of Failure Modes and Practical Mitigations.
-Discover Artificial Intelligence, Springer.
+Discover Artificial Intelligence, Springer Nature. Accepted for publication.
 ```
 
 ---
