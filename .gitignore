@@ -1,0 +1,45 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Downloaded datasets (auto-downloaded by torchvision)
+data/MNIST/
+data/CIFAR-10/
+data/cifar-10-batches-py/
+data/cifar-100-python/
+data/EMNIST/
+
+# FEMNIST (not part of paper experiments)
+data/femnist_loader.py
+data/femnist_preprocess.py
+experiments/run_femnist.py
+
+# Scratch / internal files
+docs/gap_statement.md
+experiments/test.py
+models/model.py
+Figure_1.png
+Figure_2.png
+Figure_3.png
+Figure_5.png
+figure_4.pdf
+plots/worst_client_comparison.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Claude Code settings
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
